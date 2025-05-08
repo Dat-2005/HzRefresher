@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "HzRefresher"
+rootProject.name = 120 "HzRefresher"
 include ':app'
